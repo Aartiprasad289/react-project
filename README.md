@@ -1,1 +1,1 @@
-# vite2vite-project
+# react-project
